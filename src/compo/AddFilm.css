@@ -1,0 +1,18 @@
+button{
+    height: 30px;
+    width: 100px;
+
+    border: 1px solid black;
+    box-shadow: 1px 1px 2px black;
+    background-color: darkslategray;
+}
+.input {
+    position: absolute;
+    top: 90px;
+    display: block;
+    background-color: rgb(230, 230, 230);
+   flex-direction: column;
+   z-index: 100;
+
+padding:2%;
+}

@@ -1,0 +1,12 @@
+button{
+    justify-self: center;
+    align-self: center;
+}
+.film{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
